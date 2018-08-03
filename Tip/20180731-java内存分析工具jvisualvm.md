@@ -1,0 +1,3 @@
+使用jdk自带的jvisualvm可以监控java、eclipse、tomcat的内存使用情况。
+
+其中安装了Visual GC插件可以直观地显示JVM的各个GC区的情况，安装MBeans可以看到Netty的nio使用堆外内存的情况。
