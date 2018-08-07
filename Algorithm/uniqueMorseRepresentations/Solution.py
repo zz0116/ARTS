@@ -16,10 +16,11 @@ class Solution:
         return encode.__len__()
 
 
-solution = Solution()
-# ret = solution.uniqueMorseRepresentations(["gin", "zen", "gig", "msg"])
-# ret = solution.uniqueMorseRepresentations(["gin"])
-# ret = solution.uniqueMorseRepresentations([""])
-# ret = solution.uniqueMorseRepresentations([])
-ret = solution.uniqueMorseRepresentations(["", "", ""])
-print(ret)
+if __name__ == "__main__":
+    solution = Solution()
+    # ret = solution.uniqueMorseRepresentations(["gin", "zen", "gig", "msg"])
+    # ret = solution.uniqueMorseRepresentations(["gin"])
+    # ret = solution.uniqueMorseRepresentations([""])
+    # ret = solution.uniqueMorseRepresentations([])
+    ret = solution.uniqueMorseRepresentations(["", "", ""])
+    print(ret)
