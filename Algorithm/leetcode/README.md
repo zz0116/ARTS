@@ -1,0 +1,2 @@
+## 20191103
+leetcode做了不少题在另一个叫做leetcode的rep里面，这里又放leetcode有些重复，暂时是如果用python刷的题就放这边，java刷的题就在那边。
